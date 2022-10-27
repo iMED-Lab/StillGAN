@@ -65,15 +65,14 @@ https://imed.nimte.ac.cn/CORN.html
 ### Citation
 If you use this code for your research, please cite our papers. 
 ```
-@article{ma2021stillgan,
-  title={Structure and Illumination Constrained GAN for Medical Image Enhancement},
+@article{ma2021structure,
+  title={Structure and illumination constrained GAN for medical image enhancement},
   author={Ma, Yuhui and Liu, Jiang and Liu, Yonghuai and Fu, Huazhu and Hu, Yan and Cheng, Jun and Qi, Hong and Wu, Yufei and Zhang, Jiong and Zhao, Yitian},
   journal={IEEE Transactions on Medical Imaging},
+  volume={40},
+  number={12},
+  pages={3955--3967},
   year={2021},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/TMI.2021.3101937},
   publisher={IEEE}
 }
 ```
